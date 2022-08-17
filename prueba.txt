@@ -1,0 +1,3 @@
+Este es el primer commit en el repositorio de la materia de Interfaces de Usuario e Interaccion.
+Aqui se van a alojar los ejercicios practicos que vaya resolviendo.
+¡Que la fuerza me acompañe!
